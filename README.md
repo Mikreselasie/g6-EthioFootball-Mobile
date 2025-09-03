@@ -42,7 +42,7 @@ lib/
 
 1. Install [Flutter SDK](https://flutter.dev/docs/get-started/install) (≥3.0).  
 2. Clone the repo:
-   git clone https://github.com/<org>/ethiofootball-mobile.git
+   git clone https://github.com/Mikreselasie/ethiofootball-mobile.git
    cd ethiofootball-mobile
 3. Install dependencies: 
     flutter pub get
